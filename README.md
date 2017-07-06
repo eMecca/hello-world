@@ -1,2 +1,3 @@
 # hello-world
 An informal introduction...
+Just a traveler who grew up on the banks of the Wind River. Currently marooned in Ohio.
